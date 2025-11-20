@@ -1,0 +1,66 @@
+[
+  {
+    "name": "user",
+    "fields": [
+      {
+        "name": "username",
+        "type": "text",
+        "description": "\u7528\u6237\u540d",
+        "options": null
+      },
+      {
+        "name": "studentId",
+        "type": "text",
+        "description": "\u5b66\u53f7\uff08\u56db\u4f4d\uff09",
+        "options": null
+      },
+      {
+        "name": "password",
+        "type": "text",
+        "description": "\u5bc6\u7801",
+        "options": null
+      }
+    ]
+  },
+  {
+    "name": "video",
+    "fields": [
+      {
+        "name": "userId",
+        "type": "text",
+        "description": "\u7528\u6237ID",
+        "options": null
+      },
+      {
+        "name": "username",
+        "type": "text",
+        "description": "\u7528\u6237\u540d",
+        "options": null
+      },
+      {
+        "name": "studentId",
+        "type": "text",
+        "description": "\u5b66\u53f7",
+        "options": null
+      },
+      {
+        "name": "title",
+        "type": "text",
+        "description": "\u89c6\u9891\u6807\u9898",
+        "options": null
+      },
+      {
+        "name": "url",
+        "type": "text",
+        "description": "\u89c6\u9891URL",
+        "options": null
+      },
+      {
+        "name": "uploadDate",
+        "type": "datetime",
+        "description": "\u4e0a\u4f20\u65e5\u671f",
+        "options": null
+      }
+    ]
+  }
+]
